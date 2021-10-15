@@ -21,6 +21,6 @@ Current features:
 Game Summary: 
 Platform game where the camera infinite scrolls to right. PC player has to keep alive as maximum time, without falling to the void or being eaten by the scrolling. The player of mobile will be in charge of putting platforms to correct place to help the PC player keep suviving. This platforms will have some constrains and rare shapes, to make it difficult, and mobile player will have to select 1 of 3 shapes, and have a cooldown between placing shapes.
 
-For this project we created **UNDEFINED BEHAVIOUR** a collaboration name for us.
+For this project we created **UNDEFINED BEHAVIOUR**, a collaboration name for us.
 
 Undefined Behaviour is formed by Marina Chavarria & Joan Ortiga
