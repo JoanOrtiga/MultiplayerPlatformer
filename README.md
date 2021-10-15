@@ -1,6 +1,6 @@
 # MultiplayerPlatformer
 
-Maria Chavarria and I, Joan Ortiga, started this project to show our skills. We want this project to show what we are capable of doing, in a game that implements all kinds of technologies and does it in the right way, fully optimized.
+Marina Chavarria and I, Joan Ortiga, started this project to show our skills. We want this project to show what we are capable of doing, in a game that implements all kinds of technologies and does it in the right way, fully optimized.
 
 Project is still in early stages.
 
